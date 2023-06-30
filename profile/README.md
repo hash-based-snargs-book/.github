@@ -1,3 +1,3 @@
-# .github
+# README
 
 This is a README.
